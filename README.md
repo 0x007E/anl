@@ -1,6 +1,6 @@
 [![Version: 1.0 Release](https://img.shields.io/badge/Version-1.0%20Release-green.svg)](https://github.com/0x007e/anl) ![Build](https://github.com/0x007e/anl/actions/workflows/release.yml/badge.svg) [![License CC By-NC-SA](https://img.shields.io/badge/Hardware-CC--BY--NC--SA--4.0-lightgrey)](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
 
-# `ANL` - Inverter Development Board
+# `ANL` - AND Logic Board
 
 The `ANL` is a board with an [CD4081](#additional-information) or any other 4-channel `AND` gate driver. The board itself can be driven with a voltage from `5-15V`. The board offers the possibility to `AND` signals from buttons, switches or any other logic board.
 
