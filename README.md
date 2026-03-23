@@ -16,6 +16,7 @@ The `ANL` is a board with an [CD4081](#additional-information) or any other 4-ch
 | Board     | [pdf](https://github.com/0x007E/anl/releases/latest/download/pcb.pdf) / [cadlab](https://cadlab.io/project/30125/main/files)                         | Board file      |
 | Drill     | [pdf](https://github.com/0x007E/anl/releases/latest/download/drill.pdf)                                                                              | Drill file      |
 | PCB       | [zip](https://github.com/0x007E/anl/releases/latest/download/kicad.zip) / [tar](https://github.com/0x007E/anl/releases/latest/download/kicad.tar.gz) | KiCAD/Gerber/BoM/Drill files |
+| Mechanical | [zip](https://github.com/0x007E/anl/releases/latest/download/freecad.zip) / [tar](https://github.com/0x007E/anl/releases/latest/download/freecad.tar.gz) | FreeCAD/Housing and exported step/stl files |
 
 # Hardware
 
