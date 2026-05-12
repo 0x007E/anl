@@ -2,7 +2,7 @@
 
 # `ANL` - AND Logic Board
 
-The `ANL` is a board with an [CD4081](#additional-information) or any other 4-channel `AND` gate driver. The board itself can be driven with a voltage from `5-15V`. The board offers the possibility to `AND` signals from buttons, switches or any other logic board.
+The `ANL` is a board with an [CD4081](#additional-information) or any other 4-channel `AND` gate driver that meets the pin requirements. The board itself can be driven from `5` to `15V`. The board offers the possibility to `AND` signals from buttons, switches or any other logic board.
 
 | Experience  | Level                                                                               |
 |:------------|:-----------------------------------------------------------------------------------:|
